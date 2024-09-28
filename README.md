@@ -1,4 +1,4 @@
-# Live Streaming from OV7670 Camera Using Urbana-Board (Spartan 7 FPGA)
+# OV7670 Camera Live Stream using FPGA
 
 ### Overview
 This project showcases live streaming from an OV7670 camera connected to the Urbana-Board (Spartan 7 FPGA) through the PMOD ports. The FPGA processes the camera feed and outputs it to a monitor via HDMI. The hardware description is implemented in SystemVerilog, with design, implementation, and debugging conducted using Xilinx Vivado as the Integrated Development Environment (IDE).
