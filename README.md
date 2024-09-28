@@ -1,4 +1,4 @@
-# OV7670 Camera Live Stream using FPGA
+# FPGA-Driven Real-Time Streaming of OV7670 Camera Feed
 
 ### Overview
 This project demonstrates real-time video streaming from an OV7670 camera interfaced with the Urbana-Board (Spartan-7 FPGA) via PMOD connectors. The FPGA performs image processing on the camera feed, subsequently outputting the processed video to a display through an HDMI interface. The hardware design is specified using Verilog, with the design flow encompassing synthesis, implementation, and simulation executed within the Xilinx Vivado Integrated Development Environment.
