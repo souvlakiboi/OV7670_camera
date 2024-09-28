@@ -10,14 +10,14 @@ Below is a working demonstration of the final product:
 
 ## Required Components
 ### Hardware
-- x1  Real Digital Urbana Board
-- x1  Monitor that supports HDMI
-- x1  Male-Male HDMI Cable
-- x1  OV7670 VGA Camera Module Lens CMOS 640X480 SCCB w/ I2C Interface
-- x1  Breadboard 
-- x16 Female-Male Jumper Pin
-- x16 Male-Male Jumper Pin
-- x2  4.7k Ohm Pull-Resistor
+- x01: Real Digital Urbana Board (Based on AMDs Spartan-7 FPGA)
+- x01: Monitor that supports HDMI
+- x01: Male-Male HDMI Cable
+- x01: OV7670 VGA Camera Module Lens CMOS 640X480 SCCB w/ I2C Interface
+- x01: Breadboard 
+- x16: Female-Male Jumper Pin
+- x16: Male-Male Jumper Pin
+- x02: 4.7k Ohm Pull-Resistor
   
 ### Software
 - Xilinx Vivado 2022.2
