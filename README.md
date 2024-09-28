@@ -8,6 +8,20 @@ Below is a working demonstration of the final product:
 
 ![Working Demo](images/working_demo.png)
 
+## Required Components
+### Hardware
+- x1  Real Digital Urbana Board
+- x1  Monitor that supports HDMI
+- x1  Male-Male HDMI Cable
+- x1  OV7670 VGA Camera Module Lens CMOS 640X480 SCCB w/ I2C Interface
+- x1  Breadboard 
+- x16 Female-Male Jumper Pin
+- x16 Male-Male Jumper Pin
+- x2  4.7k Ohm Pull-Resistor
+  
+### Software
+- Xilinx Vivado 2022.2
+
 ## Instructions
 
 ### Camera Setup
