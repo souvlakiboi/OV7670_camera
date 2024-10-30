@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates real-time video streaming from an OV7670 camera interfaced with the Urbana-Board (Spartan-7 FPGA) via PMOD connectors. The FPGA performs image processing on the camera feed, subsequently outputting the processed video to a display through an HDMI interface. The hardware design is specified using Verilog, with the design flow encompassing synthesis, implementation, and simulation executed within the Xilinx Vivado Integrated Development Environment.
 
-_Project Partner: @csteber02_
+_Project Partner: @csteber02_<br>
 _Based on @amsacks project (https://github.com/amsacks/OV7670-camera) extended to incorporate Xilinx Vivado IP, HDMI support, and 9-bit pixel representation_
 
 
